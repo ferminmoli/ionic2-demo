@@ -1,0 +1,46 @@
+{
+    "users": [
+    {
+        "name": "Adrián Costa",
+        "email":"acosta@velocitypartners.net",
+        "avatarUrl": "https://media.licdn.com/mpr/mpr/shrink_100_100/AAEAAQAAAAAAAAY8AAAAJDk3N2YyOWNjLTA5ZjUtNGJhOS1iNDBjLTg1ZDczZDY2ZjI5Yw.jpg",
+        "detail": "This is the user detail"
+    },
+
+    {
+        "name": "Agustin Bressan",
+        "email": "abressan@velocitypartners.net",
+        "avatarUrl": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/5/005/085/0cf/0f50e3e.jpg",
+        "detail": "This is the user detail"
+    },
+    {
+        "name": "Ezequiel Konjuh",
+        "email":"ekonjuh@velocitypartners.net",
+        "avatarUrl": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/4/005/09e/1d1/26c9689.jpg",
+        "detail": "This is the user detail"
+    },
+    {
+        "name": "Fermin Molinuevo",
+        "email": "fmolinuevo@velocitypartners.net",
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/10004370?v=3&s=400",
+        "detail": "This is the user detail"
+    },
+    {
+        "name": "Nacho Fregeiro",
+        "email": "lfregeiro@velocitypartners.net",
+        "avatarUrl": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/8/005/0a5/152/34f9632.jpg",
+        "detail": "This is the user detail"
+    },
+    {
+        "name": "Salim Chemes",
+        "email":"schemes@velocitypartners.net",
+        "avatarUrl": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/4/000/137/06a/24f29b2.jpg",
+        "detail": "This is the user detail"
+    },
+    {
+        "name": "Uncle Saper",
+        "email":"sbatistelli@velocitypartners.net",
+        "avatarUrl": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/1/000/24b/342/373fbd5.jpg",
+        "detail": "This is the user detail"
+    }]
+}

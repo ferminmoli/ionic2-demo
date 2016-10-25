@@ -1,0 +1,26 @@
+<ion-header>
+    <ion-navbar>
+        <button ion-button icon-only menuToggle>
+      <ion-icon name="menu"></ion-icon> 
+    </button>
+        <ion-title>
+            Attendee detail
+        </ion-title>
+    </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+<ion-card>
+
+  <ion-item>
+    <ion-avatar item-left>
+       <img [src]="user.avatarUrl"/>
+    </ion-avatar>
+    <h2> {{ user.name }}</h2>
+  </ion-item>
+  <ion-card-content>
+    <p>{{ user.detail }}</p>
+  </ion-card-content>
+</ion-card>
+
+</ion-content>

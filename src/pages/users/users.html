@@ -1,0 +1,23 @@
+
+<ion-header>
+    <ion-navbar>
+        <button ion-button icon-only menuToggle>
+      <ion-icon name="menu"></ion-icon> 
+    </button>
+        <ion-title>
+            Attendees
+        </ion-title>
+    </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+    <ion-list>
+        <button ion-item *ngFor="let user of users" (click)="viewUserDetail(user)">
+      <ion-avatar item-left>
+        <img [src]="user.avatarUrl">
+      </ion-avatar>
+      <h2>{{ user.name }}</h2>
+      <ion-icon name="arrow-forward" item-right ></ion-icon>
+    </button>
+    </ion-list>
+</ion-content>
